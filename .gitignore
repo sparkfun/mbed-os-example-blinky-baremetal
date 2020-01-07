@@ -1,0 +1,8 @@
+# mbed-os symlink
+mbed-os
+
+#.mbed
+.mbed
+
+# Builds
+BUILD
