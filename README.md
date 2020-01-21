@@ -18,14 +18,14 @@ cd mbed-os-example-blinky-baremetal
 Invoke `mbed compile`, and specify the name of your platform and your favorite toolchain (`GCC_ARM`, `ARM`, `IAR`). For example, for the GCC_ARM Compiler:
 
 ```
-mbed compile --target SparkFun_Edge2 --toolchain GCC_ARM
+mbed compile --target SparkFun_RedBoard_Artemis_ATP --toolchain GCC_ARM
 ```
 
 Your PC may take a few minutes to compile your code. At the end, you see the following result:
 
 ```
 [snip]
-Image: ./BUILD/SparkFun_Edge2/GCC_ARM/mbed-os-example-blinky-baremetal.bin
+Image: ./BUILD/SparkFun_RedBoard_Artemis_ATP/GCC_ARM/mbed-os-example-blinky-baremetal.bin
 ```
 
 ### Program your board
