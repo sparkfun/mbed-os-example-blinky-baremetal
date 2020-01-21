@@ -6,3 +6,5 @@ mbed-os
 
 # Builds
 BUILD
+temp__OTA_blob.bin
+temp__Wired_OTA_blob.bin
